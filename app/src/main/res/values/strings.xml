@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">KotlinFundamental</string>
+    <string name="length">Panjang</string>
+    <string name="width">Lebar</string>
+    <string name="height">Tinggi</string>
+    <string name="calculate">Hitung</string>
+    <string name="result">Hasil</string>
+    <string name="kotlin_fundamental">Kotlin Fundamental</string>
+    <string name="latihan_activity_dan_input_events">Latihan Activity Dan Input Events</string>
+</resources>
