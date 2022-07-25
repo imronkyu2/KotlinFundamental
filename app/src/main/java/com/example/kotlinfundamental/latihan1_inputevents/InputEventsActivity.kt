@@ -1,4 +1,4 @@
-package com.example.kotlinfundamental.latihan01
+package com.example.kotlinfundamental.latihan1_inputevents
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle

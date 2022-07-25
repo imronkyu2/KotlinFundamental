@@ -23,7 +23,16 @@
             </intent-filter>
         </activity>
 
-        <activity android:name=".latihan01.InputEventsActivity"/>
+        <activity android:name=".latihan1_inputevents.InputEventsActivity"
+            android:exported="false"/>
+
+        <activity
+            android:name=".latihan2_intent.lat_01_explicitintent.MoveActivity"
+            android:exported="false" />
+        <activity
+            android:name=".latihan2_intent.MyIntentAppActivity"
+            android:exported="false" />
+
     </application>
 
 </manifest>
